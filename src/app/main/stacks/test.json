@@ -1,0 +1,54 @@
+[
+    {
+      "_id": "66124ad8802fdab2d048a7e4",
+      "date": "2024-04-07T07:27:20.299Z",
+      "client": "66053e3aeca2b43c4eca6b64",
+      "status": 1,
+      "product": [
+        {
+          "productId": "660fcbac523b477941aad036",
+          "qty": 1,
+          "_id": "66124ad8802fdab2d048a7e5"
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "66124b54802fdab2d048a7e7",
+      "date": "2024-04-07T07:29:24.707Z",
+      "client": "66053e3aeca2b43c4eca6b64",
+      "status": 1,
+      "product": [
+        {
+          "productId": "660fcbac523b477941aad036",
+          "qty": 1,
+          "_id": "66124b54802fdab2d048a7e8"
+        },
+        {
+          "productId": "660fccfe523b477941aad038",
+          "qty": 2,
+          "_id": "66124b54802fdab2d048a7e9"
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "66124b6f802fdab2d048a7eb",
+      "date": "2024-04-07T07:29:51.595Z",
+      "client": "66053e3aeca2b43c4eca6b64",
+      "status": 1,
+      "product": [
+        {
+          "productId": "660fce56523b477941aad03c",
+          "qty": 3,
+          "_id": "66124b6f802fdab2d048a7ec"
+        },
+        {
+          "productId": "660ffe2d5ce14d124ebd7aed",
+          "qty": 2,
+          "_id": "66124b6f802fdab2d048a7ed"
+        }
+      ],
+      "__v": 0
+    }
+  ]
